@@ -5,5 +5,5 @@ metros = float(input("Digite um valor em metros: "))
 centimetros = metros * 100
 melimetros = metros * 1000
 print(centimetros)
-
 print(melimetros)
+
